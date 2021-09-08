@@ -1,4 +1,4 @@
-# Marafon5
+# Marafon05
 
 preview: https://dubletab.github.io/Marafon05/
 
